@@ -1,6 +1,6 @@
 name: screendapt
 description: "Screendapt provides responsive UI components, making use of the flutter_screenutil package."
-version: 0.0.1-dev.1
+version: 0.0.1-dev.2
 homepage: https://github.com/Kodrillar/screendapt
 
 environment:
